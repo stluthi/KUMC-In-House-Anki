@@ -5,21 +5,25 @@ University of Kansas School of Medicine in-house lecture Anki decks
 
 ## Organization
 
-The deck is structured as follows in the example below:
+I tried to put all blocks in the same deck. However, that turned out to be a 4.5GB .apkg, which is over GitHub's repository limits for a single file. So each block will be released separately. Feel free to combine them into one deck.
+
+The following is the structure of a Block deck:
 ```
-KUMC Ahn's In-House Decks M1
-└── Block 1: MCM
+Block 1: MCM
   └── Summative 1
     ├── W1D1 (where W=Week and D=Day)
     ├── W1D2
     ├── ...
     └── W2D3
+  └── Summative 2
+  └── Summative 3
+  └── Summative 4
 ```
+Note: D1-D5 corresponds to Monday-Friday. Some weeks don't have all days. This is normal due to holidays/no lectures/etc. If you see a mistake, let me know ASAP.
+
 In Block 2 and 4 (IBI and MM/MSK), I was unable to find Summatives/Weeks/Days to put two lecture decks under. I'm unsure where they go, but if I find a place for them (or if someone else does and lets me know), I'll put them in the appropriate spot and update the .apkg.
 
 Any of the AnKing/Zanki/anatomy cards that were pulled in when I imported Ahn's decks were deleted. Typically they were few in number, and there wasn't a good way to figure out where they should go.
-
-Note: D1-D5 corresponds to Monday-Friday. Some weeks don't have all days. This is normal due to holidays/no lectures/etc. If you see a mistake, let me know ASAP.
 
 ## Installation
 
