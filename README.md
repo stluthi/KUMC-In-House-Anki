@@ -6,15 +6,15 @@ University of Kansas School of Medicine in-house lecture Anki decks
 ## Organization
 
 The deck is structured as follows in the example below:
-
-'''KUMC Ahn's In-House Decks M1
+```
+KUMC Ahn's In-House Decks M1
 └── Block 1: MCM
   └── Summative 1
     ├── W1D1 (where W=Week and D=Day)
     ├── W1D2
     ├── ...
     └── W2D3
-'''
+```
 In Block 2 and 4 (IBI and MM/MSK), I was unable to find Summatives/Weeks/Days to put two lecture decks under. I'm unsure where they go, but if I find a place for them (or if someone else does and lets me know), I'll put them in the appropriate spot and update the .apkg.
 
 Any of the AnKing/Zanki/anatomy cards that were pulled in when I imported Ahn's decks were deleted. Typically they were few in number, and there wasn't a good way to figure out where they should go.
@@ -48,12 +48,17 @@ The following are missing lecture decks. I am unsure if Ahn had these lectures o
 4. MM B13, B46, B104
 
 Additionally, Ahn combined B10 and B22, which I placed in IBI-Summative 1, Week 2, Day 2 to try and balance the subdecks in terms of number of cards
+
 I am unsure if B27 (Ahn's year) corresponds to our years B103A/B in IBI Week 5. I moved the cards to that location (Summative 2, Week 2, Day 3) anyway.
+
 I am unsure if Ahn combined Cancer Therapy I and II (the latter of which is B79)
+
 I am unsure if Ahn combined both Head anatomy lectures into one. If not, we are missing B102 - Head Anatomy II
+
 While I doubt it's necessary, there were no lecture cards for the B106B patient panel for COPD, CF, etc. I highly, highly doubt we would even be allowed to create cards for such a lecture due to HIPAA constraints.
 
 ## Updates to this deck
 
 With regard to M2, I'll get to it when the schedule comes out.
+
 With regard to missing lectures, I may decide to create new cards for them. Any of these new lecture subdecks/cards/cards I make for existing decks will be uploaded to this repository and can be found in Releases.
